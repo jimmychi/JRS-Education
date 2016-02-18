@@ -1,0 +1,33 @@
+.aboutImage{
+	padding: 2px;
+	margin: 40px 0 4px 0;
+	border: 1px solid #ccc;
+	float: right;
+}
+#aboutImage2{
+	padding: 2px;
+	border: 1px solid #ccc;
+	float: right;
+}
+#aboutList{
+	float: left;
+	line-height: 28px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: #4B4B4B;
+	font-size: 16px;
+}
+#aboutList li{
+	margin: 10px 0;
+}
+#aboutList li:first-child{
+	margin: 0 0 10px;
+}
+.imageRight{
+	margin-right: 40px;
+	font-size: 12px;
+	float: right;
+	text-align: center;
+}
+

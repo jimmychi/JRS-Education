@@ -1,0 +1,26 @@
+#sortDiv{
+	margin-bottom: 20px;
+}
+#sortDiv a{
+	text-decoration: none;
+}
+#sortDiv a:hover{
+	text-decoration: underline;
+}	
+#page{
+	width: 1470px;
+	padding-top: 20px;
+	font-size: 12px;
+}
+.headerRow{
+	color: #fff;
+	font-weight: bold;
+}
+#searchResult{
+	min-height: 50px;	
+	width:100%;	
+	margin-top: 20px;
+}
+.middleLine{
+	width: 1470px;
+}	

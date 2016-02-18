@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^teachinginhubei\.com$
+RewriteRule ^(.*) http://www.teachinginhubei.com/$1 [R=301]
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule (.*) $1.php [L]

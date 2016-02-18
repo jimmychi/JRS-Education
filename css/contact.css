@@ -1,0 +1,23 @@
+form{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+#page-table{
+	float: left;
+}
+#page-table .cell1{
+    color: #0D3F6A;
+    font-size: 16px;
+    padding: 3px 0 8px;
+    width: 115px;
+}
+#page-table .cell2 {
+    color: #0D3F6A;
+    font-size: 16px;
+    padding: 3px 0 8px;
+    width: 115px;
+}
+.result{
+	color: #FF9900;
+	font-size: 14px;
+}

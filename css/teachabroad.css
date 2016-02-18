@@ -1,0 +1,19 @@
+.contentLeft{
+	float: left;
+	width: 200px;
+	height: 150px;
+	margin-right: 15px;
+	padding: 2px;
+	border: 1px solid #ccc;
+}
+
+.contentRight{
+    float: left;
+    letter-spacing: 0.028em;
+    line-height: 22px;
+	font-size: 16px;
+	color: #4B4B4B;
+    width: 700px;
+	height: 150px;
+	border: 0px solid;
+}	
